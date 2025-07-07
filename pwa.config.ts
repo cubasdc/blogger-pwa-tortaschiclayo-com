@@ -2,11 +2,11 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'TortasChiclayo.com',
+  shortName: 'TortasChiclayo.com',
+  description: 'TortasChiclayo.com ...',
   direction: 'auto',
-  language: 'en-US',
+  language: 'es-ES',
   backgroundColor: '#fff',
   themeColor: '#fff',
   display: 'standalone',
@@ -39,5 +39,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://tortaschiclayo.blogspot.com',
 } satisfies Config;
